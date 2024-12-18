@@ -42,7 +42,8 @@ Verwendete Quellen:
 
 ## Quellen
 
-Disclaimer: 
+**Disclaimer:**
+
 Alle Quellen wurden am Tag der Präsentation zuletzt überprüft ob diese Weiterhin zugänglich sind. (19.12.2024)
 Es wird keine Garantie dafür Übernommen das diese nach dem (19.12.2024) weiterhin zugänglich sind.
 
