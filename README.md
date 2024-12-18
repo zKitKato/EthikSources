@@ -19,7 +19,7 @@ Alle inhalte zur Vorbereitung sind im Ordner [Vorbereitung](Vorbereitung)!
 
 ## Einstieg ins Thema (Evelin
 
-[Vergleich Mephisto's und unsere Hypothesen](Einstieg/Hypothesen.md)
+[Vergleich Mephisto's und unsere Hypothesen](Unterricht/Einstieg/2_06_Ethik_Hypothese.pdf)
 
 
 
