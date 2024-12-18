@@ -22,9 +22,9 @@ Der Text zur erarbeitung, welcher in unserem Unterricht verwendet wird ist folge
 
 Verwendete Quellen:
 
-[1.1] - [1.8]; 
+[1.1] bis [1.8]; 
 
-[2.1] <= [3.1] -[3.3] zur Vereinfachung des Textes
+[2.1] <= [3.1] bis [3.3] zur Vereinfachung des Textes
 
 ## Das Seelenmodell als Vorbereitung zum Unterricht
 
@@ -47,10 +47,15 @@ Es wird keine Garantie dafür Übernommen das diese nach dem (19.12.2024) weiter
 [1.3] https://www.youtube.com/watch?v=fjYFRfQh14Q
 
 [1.4] https://www.lerntippsammlung.de/Seelenmodelle-Platon-und-Freud.html
+
 [1.5] https://www.studysmarter.de/schule/psychologie/hauptstroemungen-der-psychologie/instanzenmodell-freud/
+
 [1.6] https://erzieher-kanal.de/instanzenmodell/
+
 [1.7] https://knowunity.de/knows/ethik-freud-kant-5c3bbd5c-503a-4969-84df-4322f13a2914
+
 [1.8] https://de.wikipedia.org/wiki/%C3%9Cber-Ich
+
 [1.9] https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vereinigte-staaten-alabama-beraet-ueber-zwangskastration-14113099.html
 
 
@@ -61,5 +66,7 @@ Es wird keine Garantie dafür Übernommen das diese nach dem (19.12.2024) weiter
 **Sonstige Tools**
 
 [3.1] Gemini
+
 [3.2] ChatGPT
+
 [3.3] PerplexityAI
