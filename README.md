@@ -25,7 +25,7 @@ Alle inhalte zur Vorbereitung sind im Ordner [Vorbereitung](Vorbereitung)!
 
 ## Seelenmodell von Sigmund Freud Text (Joshi, Gian)
 
-[Seelenmodell Text](SigmundFreudTexte/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf) 
+[Seelenmodell Text](Unterricht/Sigmund-Freud-Seelenmodell-Text/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf) 
 
 Verwendete Quellen:
 
