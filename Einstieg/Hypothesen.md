@@ -1,5 +1,12 @@
 (Evelin)
 
+## Vergleich aus Faust Mephisto Vers 285f :
+
+"Der Mensch ist mehr Tier als die Tiere selbst."
+
+
+## Hypothesen
+
 (Das Thema „Triebwesen“ bezieht sich auf die Idee, dass menschliches Verhalten durch grundlegende Triebe bestimmt wird.)
 
 Hypothese 1: „Der Mensch als duales Wesen-Triebe und Vernunft in Konflikt“
