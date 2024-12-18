@@ -1,4 +1,4 @@
-# Der Mensch ein Triebwesen
+# Der Mensch ein Triebwesen ?!
 
 Wir haben das Thema der Mensch ein Triebwesen im Rahmen des Ethik Unterrichts behandelt.
 
