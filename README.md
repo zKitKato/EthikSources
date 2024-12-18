@@ -21,6 +21,7 @@ Der Text zur erarbeitung, welcher in unserem Unterricht verwendet wird ist folge
 [Seelenmodell Text](SigmundFreudTexte/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf) 
 
 Verwendete Quellen:
+
 [1.1] - [1.8]; 
 
 [2.1] <= [3.1] -[3.3] zur Vereinfachung des Textes
@@ -40,8 +41,11 @@ Es wird keine Garantie dafür Übernommen das diese nach dem (19.12.2024) weiter
 **Internet Quellen**
 
 [1.1] https://knowunity.de/knows/ethik-seelenmodell-freud-3b7e234c-c87d-47a9-b90d-6a88b6211acf
+
 [1.2] https://studyflix.de/geschichte/sigmund-freud-5176
+
 [1.3] https://www.youtube.com/watch?v=fjYFRfQh14Q
+
 [1.4] https://www.lerntippsammlung.de/Seelenmodelle-Platon-und-Freud.html
 [1.5] https://www.studysmarter.de/schule/psychologie/hauptstroemungen-der-psychologie/instanzenmodell-freud/
 [1.6] https://erzieher-kanal.de/instanzenmodell/
