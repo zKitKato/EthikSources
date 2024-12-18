@@ -13,20 +13,17 @@ Alle inhalte zur Vorbereitung sind im Ordner Vorbereitung!
 
 ## Handout (Joshi)
 
-[Unser Handout zum Thema Triebwesen](Handoutpng)
+[Unser Handout zum Thema Triebwesen](Unterricht/Handout/Mensch_Triebwesen_Handout.pdf)
+
+
 
 ## Einstieg ins Thema (Evelin
 
 [Vergleich Mephisto's und unsere Hypothesen](Einstieg/Hypothesen.md)
 
 
-## Seelenmodell von Sigmund Freud Texte (Joshi, Gian)
 
-Vorbereitung
-[Die Texte in den, dass Seelenmodell beschrieben wird.](SigmundFreudTexte)
-
-
-Unterricht: 
+## Seelenmodell von Sigmund Freud Text (Joshi, Gian)
 
 [Seelenmodell Text](SigmundFreudTexte/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf) 
 
@@ -36,13 +33,14 @@ Verwendete Quellen:
 
 [2.1] <= [4.1] bis [4.3] zur Vereinfachung des Textes
 
-## Das Seelenmodell als Vorbereitung zum Unterricht
 
-Unterricht und Vorbereitung:
+
+## Das Seelenmodell als Vorbereitung zum Unterricht
 
 [Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
 
 ![Image Alt Text](Unterricht/Seelenmodell/Seelenmodell_tafelbild.png)
+
 
 
 ## Fallbeispiel: Kastration für Sexualstraftäter (Qamachan, Suhayb)
@@ -52,6 +50,8 @@ Unterricht und Vorbereitung:
 Bild Quelle[3.1]
 
 Video Quelle[1.10]
+
+
 
 ## Quellen
 
