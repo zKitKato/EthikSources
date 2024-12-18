@@ -10,7 +10,7 @@ Kennzeichnungen:
 
 Unterricht -> Diese Inhalte wurden im Unterricht Verwendet
 
-Vorbereitend -> Inhalte unserer Erarbeitungs Phase, welche einzlene Pordukt des Gesamt produkts ergeben.
+Vorbereitung -> Inhalte unserer Erarbeitungs Phase, welche einzlene Pordukt des Gesamt produkts ergeben.
 
 ## Handout
 
@@ -23,9 +23,12 @@ Vorbereitend -> Inhalte unserer Erarbeitungs Phase, welche einzlene Pordukt des 
 
 ## Seelenmodell von Sigmund Freud Texte
 
+Vorbereitung
 [Die Texte in den, dass Seelenmodell beschrieben wird.](SigmundFreudTexte)
 
-Der Text zur erarbeitung, welcher in unserem Unterricht verwendet wird ist folgender:
+
+Unterricht: 
+
 [Seelenmodell Text](SigmundFreudTexte/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf) 
 
 Verwendete Quellen:
