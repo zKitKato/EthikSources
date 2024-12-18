@@ -43,6 +43,8 @@ Verwendete Quellen:
 
 ## Fallbeispiel: Kastration für Sexualstraftäter (Qamachan, Suhayb)
 
+Auf das Bild klicken um zum Orginalem Video zukommen.
+
 [![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/7/76/Castration_%28medieval_miniature%29.jpg)](https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s "Video Title")
 
 Bild Quelle[3.1]
