@@ -39,6 +39,8 @@ Verwendete Quellen:
 
 ## Das Seelenmodell als Vorbereitung zum Unterricht
 
+Unterricht und Vorbereitung:
+
 [Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
 
 ![Image Alt Text](SigmundFreud-Tafelbild-Seelenmodell/Seelenmodell_tafelbild.png)
