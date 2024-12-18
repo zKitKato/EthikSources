@@ -2,4 +2,4 @@
 
 ## Einstieg ins Thema 
 
-[Vergleich Mephisto's und unsere Hypothesen](Hypothesen.md)
+[Vergleich Mephisto's und unsere Hypothesen](Einstieg/Hypothesen.md)
