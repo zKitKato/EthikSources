@@ -42,7 +42,7 @@ Unterricht und Vorbereitung:
 
 [Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
 
-![Image Alt Text](SigmundFreud-Tafelbild-Seelenmodell/Seelenmodell_tafelbild.png)
+![Image Alt Text](Unterricht/Seelenmodell/Seelenmodell_tafelbild.png)
 
 
 ## Fallbeispiel: Kastration für Sexualstraftäter (Qamachan, Suhayb)
