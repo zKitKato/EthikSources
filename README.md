@@ -5,23 +5,22 @@ Wir haben das Thema der Mensch ein Triebwesen im Rahmen des Ethik Unterrichts be
 Aus der Erarbeitung haben wir eine Unterrichtsstunde, welche von uns gehalten wurde, geplant und Erstellt.
 
 **HINWEIS**
+Alle Inhalte die weiterverlinken auf Dokumente wurden im Unterricht von uns genutzt.
 
-Kennzeichnungen:
+Alle inhalte zur vorbereitung sind im Ordner Vorbereitung!
 
-Unterricht -> Diese Inhalte wurden im Unterricht Verwendet
 
-Vorbereitung -> Inhalte unserer Erarbeitungs Phase, welche einzlene Pordukt des Gesamt produkts ergeben.
 
-## Handout
+## Handout (Joshi)
 
 [Unser Handout zum Thema Triebwesen](Handoutpng)
 
-## Einstieg ins Thema 
+## Einstieg ins Thema (Evelin
 
 [Vergleich Mephisto's und unsere Hypothesen](Einstieg/Hypothesen.md)
 
 
-## Seelenmodell von Sigmund Freud Texte
+## Seelenmodell von Sigmund Freud Texte (Joshi, Gian)
 
 Vorbereitung
 [Die Texte in den, dass Seelenmodell beschrieben wird.](SigmundFreudTexte)
@@ -46,7 +45,7 @@ Unterricht und Vorbereitung:
 ![Image Alt Text](SigmundFreud-Tafelbild-Seelenmodell/Seelenmodell_tafelbild.png)
 
 
-## Fallbeispiel: Kastration für Sexualstraftäter
+## Fallbeispiel: Kastration für Sexualstraftäter (Qamachan, Suhayb)
 
 [![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/7/76/Castration_%28medieval_miniature%29.jpg)](https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s "Video Title")
 
