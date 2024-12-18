@@ -48,7 +48,7 @@ Unterricht und Vorbereitung:
 
 ## Fallbeispiel: Kastration für Sexualstraftäter
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/0Y31jxVB-gE&t=4s/0.jpg)](https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s "Video Title")
+[![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/7/76/Castration_%28medieval_miniature%29.jpg)](https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s "Video Title")
 ## Quellen
 
 **Disclaimer:**
