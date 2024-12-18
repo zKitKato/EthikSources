@@ -35,7 +35,7 @@ Verwendete Quellen:
 
 [1.1] bis [1.8]; 
 
-[2.1] <= [3.1] bis [3.3] zur Vereinfachung des Textes
+[2.1] <= [4.1] bis [4.3] zur Vereinfachung des Textes
 
 ## Das Seelenmodell als Vorbereitung zum Unterricht
 
@@ -49,6 +49,11 @@ Unterricht und Vorbereitung:
 ## Fallbeispiel: Kastration für Sexualstraftäter
 
 [![IMAGE ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/7/76/Castration_%28medieval_miniature%29.jpg)](https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s "Video Title")
+
+Bild Quelle[3.1]
+
+Video Quelle[1.10]
+
 ## Quellen
 
 **Disclaimer:**
@@ -76,15 +81,25 @@ Es wird keine Garantie dafür Übernommen das diese nach dem (19.12.2024) weiter
 
 [1.9] https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vereinigte-staaten-alabama-beraet-ueber-zwangskastration-14113099.html
 
+[1.10] https://m.youtube.com/watch?v=0Y31jxVB-gE&t=4s
+
 
 **Buch / Papier Quellen**
 
  [2.1] Sigmund Freud, Abriss der Psychoanalyse, in: Gesammelte Werke, Band 17, S. 67–69
 
+
+***Bild Quellen**
+
+[3.1] https://upload.wikimedia.org/wikipedia/commons/7/76/Castration_%28medieval_miniature%29.jpg
+
+
 **Sonstige Tools**
 
-[3.1] Gemini
+[4.1] Gemini
 
-[3.2] ChatGPT
+[4.2] ChatGPT
 
-[3.3] PerplexityAI
+[4.3] PerplexityAI
+
+
