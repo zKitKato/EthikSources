@@ -9,4 +9,10 @@ Aus der Erarbeitung haben wir eine Unterrichtsstunde, welche von uns gehalten wu
 [Vergleich Mephisto's und unsere Hypothesen](Einstieg/Hypothesen.md)
 
 
+## Seelenmodell von Sigmund Freud Texte
 
+[Die Texte in den, dass Seelenmodell beschrieben wird.](SigmundFreudTexte)
+
+## Das Seelenmodell als Vorbereitung zum Unterricht
+
+[Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
