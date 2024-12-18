@@ -7,7 +7,7 @@ Aus der Erarbeitung haben wir eine Unterrichtsstunde, welche von uns gehalten wu
 **HINWEIS**
 Alle Inhalte die weiterverlinken auf Dokumente wurden im Unterricht von uns genutzt.
 
-Alle inhalte zur Vorbereitung sind im Ordner Vorbereitung!
+Alle inhalte zur Vorbereitung sind im Ordner [Vorbereitung](Vorbereitung)!
 
 
 
