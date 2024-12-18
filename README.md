@@ -30,6 +30,8 @@ Verwendete Quellen:
 
 [Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
 
+![[SigmundFreud-Tafelbild-Seelenmodell/Seelenmodell_tafelbild.png]]
+
 
 
 ## Quellen
