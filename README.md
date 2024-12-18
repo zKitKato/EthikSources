@@ -4,6 +4,14 @@ Wir haben das Thema der Mensch ein Triebwesen im Rahmen des Ethik Unterrichts be
 
 Aus der Erarbeitung haben wir eine Unterrichtsstunde, welche von uns gehalten wurde, geplant und Erstellt.
 
+**HINWEIS**
+
+Kennzeichnungen:
+
+Unterricht -> Diese Inhalte wurden im Unterricht Verwendet
+
+Vorbereitend -> Inhalte unserer Erarbeitungs Phase, welche einzlene Pordukt des Gesamt produkts ergeben.
+
 ## Handout
 
 [Unser Handout zum Thema Triebwesen](Handoutpng)
