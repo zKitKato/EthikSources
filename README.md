@@ -13,6 +13,9 @@ Aus der Erarbeitung haben wir eine Unterrichtsstunde, welche von uns gehalten wu
 
 [Die Texte in den, dass Seelenmodell beschrieben wird.](SigmundFreudTexte)
 
+Der Text zur erarbeitung, welcher in unserem Unterricht verwendet wird ist folgender:
+[Seelenmodell Text](SigmundFreudTexte/SigmundFreud_Seelenmodell_Text_Gian-Joshua.pdf)
+
 ## Das Seelenmodell als Vorbereitung zum Unterricht
 
 [Das Seelenmodell](SigmundFreud-Tafelbild-Seelenmodell)
